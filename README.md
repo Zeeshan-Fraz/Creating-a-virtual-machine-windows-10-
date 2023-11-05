@@ -20,17 +20,29 @@ On the create a resource option, click this and then in the sub menu click creat
 <br />
 
 <p align="center">
-Configuring virtal: <br/>
+Configuring virtal machine: <br/>
 <img src="https://i.imgur.com/6fkJcKX.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
-I createed a virtual machine with windows 10 OS attached
+I createed a virtual machine with windows 10 OS as my chosen OS with the standard desik size and with an admin account.
+(I left the disk size as the default as the higher the size the more credit consumption for the azure trail subscription)
+
+I also left the inbound ports as default, to allowing connections from port 3389 RDP. 
+
+<br />
 
 <p align="center">
-Created Virtual Machine in Azure: <br/>
+Configuring the disks for the virtal machine: <br/>
 <img src="https://i.imgur.com/gK0OheU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
+
+Once I was happy with the disk size, I clicked on the Next Diks button to configuring the disks on the virtal machine 
+
+<br />
+<p align="center">
+<img src="https://i.imgur.com/Mu9cwkV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
 
 
 </p>
