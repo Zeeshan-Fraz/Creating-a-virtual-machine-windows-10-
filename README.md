@@ -12,7 +12,7 @@ remotely connect/brute force acces to the virtal machine.
 
 <p align="center">
 Created Virtual Machine in Azure: <br/>
-<img src="https://i.imgur.com/VDQdwI1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VDQdwI1.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
 On the create a resource option, click this and then in the sub menu click create the create button next to the virtal machine heading
@@ -20,9 +20,17 @@ On the create a resource option, click this and then in the sub menu click creat
 <br />
 
 <p align="center">
-Created Virtual Machine in Azure: <br/>
-<img src="https://i.imgur.com/6fkJcKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configuring virtal: <br/>
+<img src="https://i.imgur.com/6fkJcKX.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
+
+I createed a virtual machine with windows 10 OS attached
+
+<p align="center">
+Created Virtual Machine in Azure: <br/>
+<img src="https://i.imgur.com/gK0OheU.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 
 </p>
