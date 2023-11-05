@@ -1,4 +1,3 @@
-![image](https://github.com/Zeeshan-Fraz/Creating-a-virtual-machine-windows-10-/assets/121805837/cd9eb81e-ac71-4f8e-a336-ef32f86b5e73)<h1>Creating a virtual machine windows 10-</h1>
 
 <br />
 
