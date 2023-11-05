@@ -1,4 +1,4 @@
-<h1>Creating a virtual machine windows 10-</h1>
+![image](https://github.com/Zeeshan-Fraz/Creating-a-virtual-machine-windows-10-/assets/121805837/cd9eb81e-ac71-4f8e-a336-ef32f86b5e73)<h1>Creating a virtual machine windows 10-</h1>
 
 <br />
 
@@ -19,6 +19,12 @@ Created Virtual Machine in Azure: <br/>
 On the create a resource option, click this and then in the sub menu click create the create button next to the virtal machine heading
  
 <br />
+
+<p align="center">
+Created Virtual Machine in Azure: <br/>
+<img src="https://i.imgur.com/6fkJcKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 </p>
 
