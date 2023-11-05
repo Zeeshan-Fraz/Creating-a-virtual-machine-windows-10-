@@ -44,6 +44,12 @@ Once I was happy with the disk size, I clicked on the Next Diks button to config
 <img src="https://i.imgur.com/Mu9cwkV.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 
+I left the default options for the disks as these were suitable for the virtual machine and nothing requried to be changed
+
+<br />
+<p align="center">
+<img src="https://i.imgur.com/NMWKhwc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<br />
 
 </p>
 
